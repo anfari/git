@@ -90,4 +90,4 @@ El comando **git show** nos permite ver los cambios entre las dos últimas versi
 
 Podemos cambiar el mensaje de nuestro último commit y volver a consultarlo, para apreciar que la versión es la misma, pues solo hemos cambiado el mensaje del commit.
 
-![commit](img/14.png)
+![commit](img/14.PNG)
