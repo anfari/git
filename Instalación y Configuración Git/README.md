@@ -15,6 +15,7 @@ git --version
 ```
 
 Si le aparece un resultado tal que así es que está instalado:
+
 ![version](img/9.png)
 
 En caso contrario ejecutamos el siguiente comando para actualizar los repositorios, lo cual siempre es recomendable hacer:
@@ -42,6 +43,7 @@ git --version
 ````
 
 Si le aparece un resultado tal que así es que está instalado:
+
 ![version](img/9.png)
 
 Para comenzar la instalación actualizamos los repositorios ejecutando:
