@@ -93,6 +93,7 @@ exec bash
 ![bash](img/8.png)
 
 Podemos comprobar que la versión deseada está instalada:
+
 ![version](img/9.png)
 
 
