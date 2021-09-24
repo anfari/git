@@ -17,7 +17,7 @@ Dado que en la práctica anterior ya configuramos los dos primeros, solo ejecuta
 ````
 git config --list
 ````
-![list](img/1.png)
+![list](img/1.PNG)
 
 
 ## Creación de un repositorio
