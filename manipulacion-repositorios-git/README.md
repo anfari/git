@@ -24,7 +24,7 @@ git config --list
 
 Lo primero será crear la carpeta con el nombre del repositorio deseado, una vez hecho nos movemos dentro de la misma y ejecutamos **git init** para inicializar el repositorio, si comprobamos el contenido de la carpeta, veremos que se ha creado el fichero *.git*.
 
-![init](img/2.png)
+![init](img/2.PNG)
 
 
 ## Comprobar el estado del repositorio
@@ -33,23 +33,23 @@ Primero comprobaremos el estado del repositorio con el comando:
 ````
 git status
 ````
-![satus](img/3.png)
+![satus](img/3.PNG)
 
 Ahora crearemos un fichero llamado **indice.txt** con el siguiente contenido.
 
-![creacion_fichero](img/4.png)
+![creacion_fichero](img/4.PNG)
 
 Y comprobamos de nuevo el estado.
 
-![status](img/5.png)
+![status](img/5.PNG)
 
 Como podemos ver se han actualizado los cambios y nos avisa con rojo que el fichero no tiene seguimiento, por lo que procedemos a añadirlo.
 
-![add](img/6.png)
+![add](img/6.PNG)
 
 Y comprobamos de nuevo el estado para ver que haya funcionado correctamente.
 
-![status](img/7.png)
+![status](img/7.PNG)
 
 
 ## Realizando Commit's
@@ -58,35 +58,35 @@ Tenemos que realizar un commit con los últimos cambios que hemos hecho para no 
 ````
 git commit -m “Añadido índice de la asignatura DPL.”
 ````
-![commit](img/8.png)
+![commit](img/8.PNG)
 
 Y comprobamos que el estado del repositorio está limpio.
 
-![status](img/9.png)
+![status](img/9.PNG)
 
 
 ## Modificación de ficheros
 
 Para este punto modificaremos el fichero **indice.txt** añadiéndole algunas lineas.
 
-![cat](img/10.png)
+![cat](img/10.PNG)
 
 Para consultar las diferencias entre nuestro fichero y la última versión guardada utilizamos:
 ````
 git diff
 ````
-![diff](img/11.png)
+![diff](img/11.PNG)
 
 Tras ver que no está actualizado añadimos de nuevo el archivo y generamos un nuevo commit.
 
-![commit](img/12.png)
+![commit](img/12.PNG)
 
 
 ## Historial
 
 El comando **git show** nos permite ver los cambios entre las dos últimas versiones del repositorio.
 
-![show](img/13.png)
+![show](img/13.PNG)
 
 Podemos cambiar el mensaje de nuestro último commit y volver a consultarlo, para apreciar que la versión es la misma, pues solo hemos cambiado el mensaje del commit.
 
