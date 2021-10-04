@@ -3,10 +3,10 @@
 ## Índice
 - <a href="#1">Requisitos previos</a>
 - <a href="#2">Pasos para la instalación en local</a>
--- <a href="#3">Actualización de los repositorios</a>
--- <a href="#4">Instalación de paquetes adicionales</a>
--- <a href="#5">Instalación de GitLab</a>
--- <a href="#6">Acceso</a>
+- <a href="#3">Actualización de los repositorios</a>
+- <a href="#4">Instalación de paquetes adicionales</a>
+- <a href="#5">Instalación de GitLab</a>
+- <a href="#6">Acceso</a>
 
 
 # <a name="1">Requisitos previos</a>
