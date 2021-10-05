@@ -17,7 +17,7 @@ Antes de cualquier instalación es recomendable actualizar tanto los repositorio
 sudo apt update && sudo apt upgrade
 ```
 
-![update](img/1.png)
+![update](img/1.jpg)
 
 ## <a name="3">Instalación de Apache</a>
 
