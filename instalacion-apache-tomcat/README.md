@@ -1,10 +1,10 @@
-# Instalación Apache
+# Instalación Apache-Tomcat
 
 ## Índice
 - <a href="#1">Requisitos previos</a>
 - <a href="#2">Pasos para la instalación en local</a>
 - <a href="#3">Actualización de los repositorios</a>
-- <a href="#4">Instalación de Apache</a>
+- <a href="#4">Instalación de Apache-Tomcat</a>
 - <a href="#5">Acceso</a>
 
 
@@ -30,7 +30,7 @@ sudo apt update && sudo apt upgrade
 
 ![update](img/2.png)
 
-## <a name="4">Instalación de Apache</a>
+## <a name="4">Instalación de Apache-Tomcat</a>
 
 Lo primero será descargar **Tomcat 10** desde la página de descargas oficial, escogiendo el paquete más recomendable para nuestro sistema operativo, **.tar.gz** en nuestro caso. Esto podemos hacerlo ejecutando el comando:
 
